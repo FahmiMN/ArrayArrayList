@@ -18,3 +18,9 @@ public class Latihan1 {
         System.out.println("Jumlah nilai  : " + nilai.length);
     }
 }
+
+// Output:
+// Nilai pertama : 80
+// Nilai ketiga  : 90
+// Mahasiswa ke-2: Budi
+// Jumlah nilai  : 5
