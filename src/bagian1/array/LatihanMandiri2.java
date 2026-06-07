@@ -5,7 +5,7 @@ public class LatihanMandiri2 {
         String[] hari = {"Senin", "Selasa", "Rabu", "Kamis", "Minggu"};
         for (String h : hari) {
             if (h.length() > 5) {   
-                System.out.println(h);
+                System.out.println(h);  //Output: Selasa, Minggu
             }
         }
     }

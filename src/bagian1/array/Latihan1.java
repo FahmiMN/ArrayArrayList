@@ -2,7 +2,7 @@ package bagian1.array;
 
 public class Latihan1 {
     public static void main(String[] args) {
-        // Cara 1: deklarasi lalu isi per indeks
+        
         int[] nilai = new int[5];
         nilai[0] = 80;
         nilai[1] = 75;
@@ -10,7 +10,6 @@ public class Latihan1 {
         nilai[3] = 60;
         nilai[4] = 85;
 
-        // Cara 2: langsung diisi saat dibuat
         String[] nama = {"Andi", "Budi", "Citra"};
 
         System.out.println("Nilai pertama : " + nilai[0]);
